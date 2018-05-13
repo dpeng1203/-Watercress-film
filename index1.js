@@ -194,7 +194,7 @@ var search = {
 
 
         $.ajax({
-            url: 'http://api.douban.com/v2/movie/search',
+            url: 'https://api.douban.com/v2/movie/search',
             type: 'GET',
             data: {
                 q: _this.keyWord
