@@ -68,16 +68,16 @@ input{
     margin-left: 5vw;
     margin-top: 5vh;
     margin-bottom: 5vh;
+    font-size: 4.5vw;
     border: 1px solid #999;
     border-radius: 5px;
-    font-size: 2.5vh;
 }
 button{
     width: 18vw;
     height: 9vw;
     margin-left: 5px;
     background: #ff5722;
-    font-size: 2.4vh;
+    font-size: 4vw;
     border-radius: 5px;
 }
 
