@@ -64,7 +64,7 @@ main>section:first-child{
 
 input{
     width: 70vw;
-    height: 5vh;
+    height: 9vw;
     margin-left: 5vw;
     margin-top: 5vh;
     margin-bottom: 5vh;
@@ -74,7 +74,7 @@ input{
 }
 button{
     width: 18vw;
-    height: 5vh;
+    height: 9vw;
     margin-left: 5px;
     background: #ff5722;
     font-size: 2.4vh;
